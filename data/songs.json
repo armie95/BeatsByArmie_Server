@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "playlistId": 1,
+    "name": "Lookin For You(P1)",
+    "album_image": "BattleSongs-AlbumCover-FreesideMedia-featured.jpg",
+    "duration": 3000,
+    "wavfile": "lookinforyou.wav",
+    "bpm": 128,
+    "tags": ["trap", "rock", "rock", "rock", "rock"]
+  },
+  {
+    "id": 2,
+    "playlistId": 1,
+    "album_image": "3.jpg",
+    "name": "Runitback",
+    "duration": "19:5",
+    "wavfile": "runitback.wav",
+    "bpm": 134,
+    "tags": ["trap", "rock"]
+  },
+  {
+    "id": 3,
+    "playlistId": 2,
+    "album_image": "dynamic-radial-color-sound-equalizer-design-music-album-cover-template-abstract-circular-digital-data-form-vector-160916775.jpg",
+    "name": "Im To Good At This (Playlist2)",
+    "duration": 3000,
+    "wavfile": "imtogoodatthis.wav",
+    "bpm": 3000,
+    "tags": ["rap", "trap"]
+  },
+  {
+    "id": 4,
+    "playlistId": 2,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Hanging With The Wolves (Playlist2)",
+    "duration": 3000,
+    "wavfile": "hangingwiththewolves.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 5,
+    "playlistId": 2,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "Major Distribution (Playlist2)",
+    "duration": 3000,
+    "wavfile": "all-in.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 4,
+    "playlistId": 4,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "VampLife (Playlist4)",
+    "duration": 3000,
+    "wavfile": "Vamplife.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 5,
+    "playlistId": 4,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "Another One (Playlist4)",
+    "duration": 3000,
+    "wavfile": "anotherone.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 6,
+    "playlistId": 3,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "Uptown (Playlist3)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "befree.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 7,
+    "playlistId": 3,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "On The Moon (Playlist3)",
+    "duration": 3000,
+    "wavfile": "onthemoon.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 8,
+    "playlistId": 3,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "Be Free",
+    "duration": 3000,
+    "wavfile": "befree.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 9,
+    "playlistId": 3,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "Star (Playlist3)",
+    "wavfile": "star.wav",
+    "duration": 3000,
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 10,
+    "playlistId": 4,
+    "album_image": "Screen-Shot-2019-12-04-at-9.35.04-PM.png",
+    "name": "less is more",
+    "duration": 3000,
+    "wavfile": "befree.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 11,
+    "playlistId": 3,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "whippinit (Playlist2)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "whippinit.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 12,
+    "playlistId": 4,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "June(P4)",
+    "wavfile": "june.wav",
+    "duration": 3000,
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 13,
+    "playlistId": 4,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "y2k(P4)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "y2k.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 14,
+    "playlistId": 4,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Relax(P4)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "Relax.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 15,
+    "playlistId": 2,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Dont Call Again(P2)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "seven.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 16,
+    "playlistId": 2,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Surfing(P2)",
+    "duration": 3000,
+    "wavfile": "surfing.wav",
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 17,
+    "playlistId": 3,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Chances(P3)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "GetThisMoney.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 20,
+    "playlistId": 3,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "Vamplife(P3)",
+    "wavfile": "Vamplife.wav",
+    "duration": 3000,
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 21,
+    "playlistId": 1,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "name": "I Aint Playing Fair(P1)",
+    "duration": 3000,
+    "bpm": 3000,
+    "wavfile": "befree.wav",
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 22,
+    "playlistId": 1,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "wavfile": "befree.wav",
+    "name": "Earlymorning, Daytime(P1)",
+    "duration": 3000,
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  },
+  {
+    "id": 23,
+    "playlistId": 1,
+    "album_image": "ReginaSpektorSongs.jpg",
+    "wavfile": "befree.wav",
+    "name": "Nights(P1)",
+    "duration": 3000,
+    "bpm": 3000,
+    "tags": ["rap", "rock"]
+  }
+]

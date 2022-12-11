@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "album_image": "travis.jpg",
+    "name": "Dark Vibes",
+    "description": "This playlist, contains dark beats. In minor."
+  },
+  {
+    "id": 2,
+    "album_image": "playboi1.jpg",
+    "name": "Energy Vibes",
+    "description": "Uptempo and fast"
+  },
+  {
+    "id": 3,
+    "album_image": "playboi2.jpg",
+    "name": "Cloudy Vibes",
+    "description": "Airy and ambient vibes"
+  },
+  {
+    "id": 4,
+    "album_image": "playboi3.jpg",
+    "name": "OutterSpace",
+    "description": "Feel like your with the stars"
+  }
+]
