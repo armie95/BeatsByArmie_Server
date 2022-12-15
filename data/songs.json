@@ -35,7 +35,7 @@
     "album_image": "ReginaSpektorSongs.jpg",
     "name": "Hanging With The Wolves",
     "duration": "3:00",
-    "wavfile": "outside.wav",
+    "wavfile": "y2k.wav",
     "bpm": 126,
     "tags": ["rap", "rock"]
   },
@@ -115,7 +115,7 @@
     "album_image": "icon16.jpeg",
     "name": "less is more",
     "duration": "3:16",
-    "wavfile": "befree.wav",
+    "wavfile": "05-26f.wav",
     "bpm": 128,
     "tags": ["rap", "rock"]
   },
@@ -166,7 +166,7 @@
     "name": "Dont Call Again",
     "duration": "2:40",
     "bpm": 132,
-    "wavfile": "seven.wav",
+    "wavfile": "onthemoon.wav",
     "tags": ["rap", "rock"]
   },
   {
@@ -206,7 +206,7 @@
     "name": "I Aint Playing Fair",
     "duration": "3:01",
     "bpm": 156,
-    "wavfile": "NoGames.wav",
+    "wavfile": "Toronto.wav",
     "tags": ["rap", "rock"]
   },
   {
@@ -223,7 +223,7 @@
     "id": 23,
     "playlistId": 1,
     "album_image": "ReginaSpektorSongs.jpg",
-    "wavfile": "befree.wav",
+    "wavfile": "05-26f.wav",
     "name": "Nights",
     "duration": "3:01",
     "bpm": 140,
