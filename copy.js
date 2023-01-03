@@ -26,23 +26,16 @@ app.get("/playlistSongs:id", (req, res) => {
 app.post("/addComment", (req, res) => {
   const { comment, id } = req.body;
   let index = playlist.findIndex((item) => item.id == id.split(":")[1]);
-  let newComments = [
-    {
-      id: Date.now(),
-      name: "Arman",
-      timestamp: Date.now(),
-      comment: comment,
-    },
-    ...playlist[index].comments,
-  ];
+  let newComments = [...playlist[index].comments];
+  newComments.unshift({
+    id: Date.now(),
+    name: "Arman",
+    timestamp: Date.now(),
+    comment: comment,
+  });
   playlist[index] = { ...playlist[index], comments: newComments };
 
-  const songsList = JSON.parse(fs.readFileSync("./data/songs.json", "utf-8"));
-  let findSongs = songsList.filter(
-    (song) => song.playlistId == id.split(":")[1]
-  );
-
-  res.status(200).send({ songs: findSongs, playlist: playlist[index] });
+  res.status(200).send({ playlist: playlist[index] });
 });
 
 app.use(express.static("assets"));
