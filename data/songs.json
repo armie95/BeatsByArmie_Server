@@ -7,6 +7,7 @@
     "duration": "3:01",
     "wavfile": "lookinforyou.wav",
     "bpm": 128,
+    "views": 3,
     "tags": ["trap", "rock", "rock", "rock", "rock"]
   },
   {
@@ -17,6 +18,7 @@
     "duration": "19:5",
     "wavfile": "runitback.wav",
     "bpm": 134,
+    "views": 4,
     "tags": ["trap", "rock"]
   },
   {
@@ -27,6 +29,7 @@
     "duration": "3:05",
     "wavfile": "starboy@thedisco.wav",
     "bpm": 132,
+    "views": 4,
     "tags": ["rap", "trap"]
   },
   {
@@ -37,6 +40,7 @@
     "duration": "3:00",
     "wavfile": "y2k.wav",
     "bpm": 126,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -47,6 +51,7 @@
     "duration": "2:00",
     "wavfile": "all-in.wav",
     "bpm": 162,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -56,7 +61,8 @@
     "name": "VampLife",
     "duration": "2:45",
     "wavfile": "anotherone.wav",
-    "bpm": "156",
+    "bpm": 156,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -67,6 +73,7 @@
     "duration": "4:01",
     "wavfile": "Toronto.wav",
     "bpm": 156,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -76,6 +83,7 @@
     "name": "Uptown ",
     "duration": "2:22",
     "bpm": 172,
+    "views": 4,
     "wavfile": "thruthevalley.wav",
     "tags": ["rap", "rock"]
   },
@@ -87,6 +95,7 @@
     "duration": "4:01",
     "wavfile": "onthemoon.wav",
     "bpm": 140,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -97,6 +106,7 @@
     "duration": "2:00",
     "wavfile": "starboy@thedisco.wav",
     "bpm": 140,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -107,6 +117,7 @@
     "wavfile": "star.wav",
     "duration": "3:05",
     "bpm": 132,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -117,6 +128,7 @@
     "duration": "3:16",
     "wavfile": "05-26f.wav",
     "bpm": 128,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -126,6 +138,7 @@
     "name": "whippinit",
     "duration": "2:45",
     "bpm": 124,
+    "views": 7,
     "wavfile": "whippinit.wav",
     "tags": ["rap", "rock"]
   },
@@ -137,6 +150,7 @@
     "wavfile": "june.wav",
     "duration": "4:26",
     "bpm": 167,
+    "views": 3,
     "tags": ["rap", "rock"]
   },
   {
@@ -146,6 +160,7 @@
     "name": "y2k",
     "duration": "2:45",
     "bpm": 170,
+    "views": 4,
     "wavfile": "y2k.wav",
     "tags": ["rap", "rock"]
   },
@@ -156,6 +171,7 @@
     "name": "Relax",
     "duration": "2:36",
     "bpm": 137,
+    "views": 1,
     "wavfile": "Relax.wav",
     "tags": ["rap", "rock"]
   },
@@ -166,6 +182,7 @@
     "name": "Dont Call Again",
     "duration": "2:40",
     "bpm": 132,
+    "views": 2,
     "wavfile": "onthemoon.wav",
     "tags": ["rap", "rock"]
   },
@@ -177,6 +194,7 @@
     "duration": "2:36",
     "wavfile": "surfing.wav",
     "bpm": 136,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -186,6 +204,7 @@
     "name": "Chances",
     "duration": "3:00",
     "bpm": 123,
+    "views": 4,
     "wavfile": "GetThisMoney.wav",
     "tags": ["rap", "rock"]
   },
@@ -197,6 +216,7 @@
     "wavfile": "Vamplife.wav",
     "duration": "3:18",
     "bpm": 136,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -206,6 +226,7 @@
     "name": "I Aint Playing Fair",
     "duration": "3:01",
     "bpm": 156,
+    "views": 4,
     "wavfile": "Toronto.wav",
     "tags": ["rap", "rock"]
   },
@@ -217,6 +238,7 @@
     "name": "Earlymorning, Daytime",
     "duration": "2:22",
     "bpm": 167,
+    "views": 4,
     "tags": ["rap", "rock"]
   },
   {
@@ -227,6 +249,7 @@
     "name": "Nights",
     "duration": "3:01",
     "bpm": 140,
+    "views": 4,
     "tags": ["rap", "rock"]
   }
 ]
