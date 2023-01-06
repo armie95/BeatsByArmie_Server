@@ -13,6 +13,15 @@ app.get("/fullPlaylist", (req, res) => {
   res.status(200).send(playlist);
 });
 
+app.get("/mostPlayedSongs", (req, res) => {
+  const mostPlayedSongs = JSON.parse(
+    fs.readFileSync("./data/songs.json", "utf-8")
+  );
+  let findMostPlayed = mostPlayedSongs.filter((song) => song.views > 9);
+
+  res.status(200).send({ songs: findMostPlayed });
+});
+
 app.get("/playlistSongs:id", (req, res) => {
   const id = req.params.id;
   const songsList = JSON.parse(fs.readFileSync("./data/songs.json", "utf-8"));

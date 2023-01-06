@@ -7,7 +7,7 @@
     "duration": "3:01",
     "wavfile": "lookinforyou.wav",
     "bpm": 128,
-    "views": 3,
+    "views": 7,
     "tags": ["trap", "rock", "rock", "rock", "rock"]
   },
   {
@@ -18,7 +18,7 @@
     "duration": "19:5",
     "wavfile": "runitback.wav",
     "bpm": 134,
-    "views": 4,
+    "views": 11,
     "tags": ["trap", "rock"]
   },
   {
@@ -83,7 +83,7 @@
     "name": "Uptown ",
     "duration": "2:22",
     "bpm": 172,
-    "views": 4,
+    "views": 15,
     "wavfile": "thruthevalley.wav",
     "tags": ["rap", "rock"]
   },
@@ -95,7 +95,7 @@
     "duration": "4:01",
     "wavfile": "onthemoon.wav",
     "bpm": 140,
-    "views": 4,
+    "views": 22,
     "tags": ["rap", "rock"]
   },
   {
@@ -106,7 +106,7 @@
     "duration": "2:00",
     "wavfile": "starboy@thedisco.wav",
     "bpm": 140,
-    "views": 4,
+    "views": 11,
     "tags": ["rap", "rock"]
   },
   {
@@ -150,7 +150,7 @@
     "wavfile": "june.wav",
     "duration": "4:26",
     "bpm": 167,
-    "views": 3,
+    "views": 19,
     "tags": ["rap", "rock"]
   },
   {
@@ -204,7 +204,7 @@
     "name": "Chances",
     "duration": "3:00",
     "bpm": 123,
-    "views": 4,
+    "views": 12,
     "wavfile": "GetThisMoney.wav",
     "tags": ["rap", "rock"]
   },
@@ -216,7 +216,7 @@
     "wavfile": "Vamplife.wav",
     "duration": "3:18",
     "bpm": 136,
-    "views": 4,
+    "views": 14,
     "tags": ["rap", "rock"]
   },
   {
